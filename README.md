@@ -11,3 +11,8 @@ Puliti, S., McLean, J.P., Cattaneo, N., Fischer, C., Astrup, R. 2021 Tree height
 # Usage
 In this repo you will be able to process a single tree according to the developed methodology in R.
 
+## 1- First clone the repository
+git clone ...
+
+## 2- run the "Use.r" file
+
