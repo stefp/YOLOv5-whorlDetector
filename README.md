@@ -9,7 +9,7 @@ Puliti, S., McLean, J.P., Cattaneo, N., Fischer, C., Astrup, R. 2022. Tree heigh
 
 
 # Usage
-In this repo you will be able to process a single tree according to the methodology developed by Puliti et al. 2022. The code is mainly based on R but calls python
+In this repo you will be able to process a single tree according to the methodology developed by Puliti et al. 2022. The code is mainly based on R but calls python for the YOLO inference. Thus python should be installed on the machine.
 
 ## 1- First clone the repository
 git clone ...
