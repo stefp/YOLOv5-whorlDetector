@@ -12,7 +12,9 @@ Puliti, S., McLean, J.P., Cattaneo, N., Fischer, C., Astrup, R. 2022. Tree heigh
 In this repo you will be able to process a single tree according to the methodology developed by Puliti et al. 2022. The code is mainly based on R but calls python for the YOLO inference. Thus python should be installed on the machine.
 
 ## 1- First clone the repository
+```shell
 git clone https://github.com/stefp/YOLOv5-whorlDetector
+```
 
 ## 2 - Download the whorl detector model (*.pt) the google drive
 The model can be dowloaded from this link (https://drive.google.com/file/d/1_kNcQrUuSiYxvjItw_nBJWiRq9YIdR0D/view?usp=sharing) and should be stored in the .../YOLOv5-whorlDetector/src/whorl_detector_weights folder
