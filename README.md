@@ -14,5 +14,8 @@ In this repo you will be able to process a single tree according to the develope
 ## 1- First clone the repository
 git clone ...
 
-## 2- run the "Use.r" file
+## 2 - Download the whorl detector model (*.pt) the google drive
+The model can be dowloaded from this link (https://drive.google.com/file/d/1_kNcQrUuSiYxvjItw_nBJWiRq9YIdR0D/view?usp=sharing) and should be stored in the .../YOLOv5-whorlDetector/src/whorl_detector_weights folder
+
+## 3 - run the "Use.r" file
 
